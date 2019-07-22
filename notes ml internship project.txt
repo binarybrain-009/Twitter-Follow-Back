@@ -1,0 +1,14 @@
+These are the list of parameters on which it would depend if the user follows us back or not.
+
+
+sentiment of the followers post he retweets the post of the person he is following
+social status number of followers and number of people following
+time zone
+tweets
+born
+joined twitter
+lists 
+Moments 
+Mutual connections
+
+
